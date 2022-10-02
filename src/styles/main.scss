@@ -1,0 +1,10 @@
+@import 'normalize';
+@import 'fonts';
+@import 'variables';
+
+body {
+  --radii: 5px;
+  color: var(--colors-text);
+  background-color: var(--colors-bg);
+  font-family: 'Nunito Sans', sans-serif;
+}
